@@ -1,0 +1,29 @@
+#Headline{
+  font-family:arial, helvetica, sans-serif;
+  color:#8fa2d8;
+  text-shadow:1px 1px 1px rgba(0,0,0,1)
+}
+#List > li{
+  font-family:arial, helvetica, ssns-serif;
+  font-weight:bold;
+  margin-bottom:4px;
+  list-style-type:none;
+  padding:10px;
+  border:1px solid #31498c
+   
+}
+
+button#Button{
+  
+  margin-left:40px;
+  padding:10px;
+  border-radius:5px;
+ background: linear-gradient(#000000, #eeeeee); /* Standard syntax */
+  color:#ffffff;
+  text-shadow:1px 1px 1px rgba(0,0,0,1)
+  
+}
+
+.active{background-color:#31498c;
+color:#ffffff;
+padding:10px}
